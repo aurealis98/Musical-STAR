@@ -1,9 +1,10 @@
 # Musical STAR
 A python game that serves as a fun and easy way to get music recommendations!
-Requires: Python version 3.8+
+
 
 It uses the Last FM API to search similar artists and their top tracks and albums.
 Made using the pygame library.
+Requires: Python version 3.8+
 
 # My Inspiration
 My love for listening to a wide variety of music inspired me to create this game. It can get
@@ -30,12 +31,7 @@ For callback URL you can just put in something like: http://localhost/ or https 
 
 4. Once everything is set-up, you can simply run main.py to play the game!
    
-### 3. **Usage Overview**
-
-Explain what the game does once it’s running:
-
-
-## How to Play
+## Game Instructions
 
 - Contrals are WASD, or Arrow keys. Q to drop prizes. E to open one. Space for picking up prizes.
 - The game pulls artist/song data from LastFM using your API key.
