@@ -1,7 +1,7 @@
 import requests
 from time import sleep
 
-API_KEY = "5e066c680ffd6e7230e70d162e33869a"
+API_KEY = ''        # To generate your own API Key, please go to README
 URL = "http://ws.audioscrobbler.com/2.0/"
 
 
