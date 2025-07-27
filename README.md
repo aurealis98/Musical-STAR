@@ -39,4 +39,4 @@ For callback URL you can just put in something like: http://localhost/ or https 
 - Once you click play, you will enter an Input Screen. Write any artist that you like
 on the gray boxes and the game will generate artists similar to them. You can also
 adjust the number of prizes generated at the bottom right corner.
-- In the game loop, you control the claw and you get prizeballs with different artists "inside".
+- In the game loop, you control the claw and you get prizeballs with different artists inside.
